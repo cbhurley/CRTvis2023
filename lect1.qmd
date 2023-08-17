@@ -38,9 +38,9 @@ knitr::include_graphics("figs/wainer.png")
 
 ## Preparation
 
-You will find the material for this lecture on github here <https://github.com/cbhurley/CRT2023vis>
+You will find the material for this lecture on github here <https://github.com/cbhurley/CRTvis2023>
 and a copy of this lecture
-[here](http://htmlpreview.github.io/?https://github.com/cbhurley/CRT2022vis/blob/master/lect1.html)
+[here](http://htmlpreview.github.io/?https://github.com/cbhurley/CRTvis2023/blob/master/lect1.html)
 
 First install these packages
 

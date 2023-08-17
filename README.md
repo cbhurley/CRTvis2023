@@ -11,6 +11,11 @@ Participants require computers with the software R and the related interface (ID
 
 
 
-[Lecture 1](http://htmlpreview.github.io/?https://github.com/cbhurley/CRT2023vis/blob/master/lect1.html)
+[Lecture 1](http://htmlpreview.github.io/?https://github.com/cbhurley/CRTvis2023/blob/master/lect1.html)
 
-[Lecture 2](http://htmlpreview.github.io/?https://github.com/cbhurley/CRT2023vis/blob/master/lect2.html)
+[Lecture 2](http://htmlpreview.github.io/?https://github.com/cbhurley/CRTvis2023/blob/master/lect2.html)
+
+
+The associated assignment is [available here.](http://htmlpreview.github.io/?https://github.com/cbhurley/CRTvis2023/blob/master/Assignment/assignment.html)
+
+The dataset is at <https://github.com/cbhurley/CRTvis2023/Assignment/life.Rdata>

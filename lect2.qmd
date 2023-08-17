@@ -28,9 +28,9 @@ knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=F)
 
 ## Preparation
 
-You will find the material for this lecture on github here <https://github.com/cbhurley/CRT2023vis>
+You will find the material for this lecture on github here <https://github.com/cbhurley/CRTvis2023>
 and a copy of this lecture
-[here](http://htmlpreview.github.io/?https://github.com/cbhurley/CRT2023vis/blob/master/lect2.html)
+[here](http://htmlpreview.github.io/?https://github.com/cbhurley/CRTvis2023/blob/master/lect2.html)
 
 
 First install these packages
