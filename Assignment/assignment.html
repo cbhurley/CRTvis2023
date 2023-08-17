@@ -359,7 +359,12 @@ display: none;
 <div id="united-nations-life-expectancy-data" class="section level3">
 <h3>United Nations Life expectancy data</h3>
 <p>The data is a subset of that available from <a href="https://population.un.org/wpp/Download/Standard/CSV/" class="uri">https://population.un.org/wpp/Download/Standard/CSV/</a>.</p>
-<pre class="r"><code>load(&quot;life.Rdata&quot;) # gives you data called life</code></pre>
+<pre class="r"><code>if (!file.exists(&quot;life.Rdata&quot;)){
+  download.file(&quot;https://github.com/cbhurley/CRTvis2023/blob/main/Assignment/life.Rdata?raw=true&quot;, 
+                destfile = &quot;life.Rdata&quot;, mode = &quot;wb&quot;)
+}
+
+load(&quot;life.Rdata&quot;) # gives you data called life</code></pre>
 <p>The variables are</p>
 <ul>
 <li>ISO3_code</li>
