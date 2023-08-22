@@ -9,9 +9,7 @@ Data visualisation is core to meaningful data presentation, and plays a central 
 
 Participants require computers with the software R and the related interface (IDE) RStudio. These should be installed before the lecture.
 
-Assignment
-https://github.com/cbhurley/CRTvis2023/tree/2fe47e8cfe9ae30e6b1f1d2731df072965614840/Assignment
-Assignment
+
 [Lecture 1](http://htmlpreview.github.io/?https://github.com/cbhurley/CRTvis2023/blob/master/lect1.html)
 
 [Lecture 2](http://htmlpreview.github.io/?https://github.com/cbhurley/CRTvis2023/blob/master/lect2.html)
